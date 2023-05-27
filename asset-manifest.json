@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React.js-cryptoDisplay/static/css/main.b3cbd7a6.css",
+    "main.js": "/React.js-cryptoDisplay/static/js/main.6e008586.js",
+    "static/js/787.831ae725.chunk.js": "/React.js-cryptoDisplay/static/js/787.831ae725.chunk.js",
+    "index.html": "/React.js-cryptoDisplay/index.html",
+    "main.b3cbd7a6.css.map": "/React.js-cryptoDisplay/static/css/main.b3cbd7a6.css.map",
+    "main.6e008586.js.map": "/React.js-cryptoDisplay/static/js/main.6e008586.js.map",
+    "787.831ae725.chunk.js.map": "/React.js-cryptoDisplay/static/js/787.831ae725.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3cbd7a6.css",
+    "static/js/main.6e008586.js"
+  ]
+}
